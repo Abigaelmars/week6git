@@ -6,6 +6,7 @@ terraform {
         }
   }
 }
+# This is an active line
 provider "aws" {
     region = "us-east-2"
   
